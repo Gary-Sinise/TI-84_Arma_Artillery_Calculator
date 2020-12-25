@@ -1,0 +1,26 @@
+A - Self X position
+B - Self Y position
+C - Self Z position (elevation)
+D - Target X position
+E - Target Y position
+F - Target Z position (elevation)
+G - 
+H - 
+I - 
+J - 
+K - 
+L - 
+M - 
+N - 
+O - 
+P - 
+Q - 
+R - Range to target
+S - Angle to target in degrees with 0 on the X-axis
+T - X-coordinate of adjusted target
+U - Y-coordinate of adjusted target
+V - Angle to target in degrees with 0 to North
+W - Final Angle in Nato Mils
+X - 
+Y - 
+Z - 
