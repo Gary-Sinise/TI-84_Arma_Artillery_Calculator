@@ -13,10 +13,9 @@ Disp "Target Z Coordinates"
 Prompt F
 R►Pr(D-A,E-B)→R
 R►Pθ(D-A,E-B)→S
--S→R
 P►Rx(R,S)→T
 P►Ry(R,S)→U
-If (T≥0 and U≥0)
+If (T≤0 and U≥0)
 Then
 450-S→V
 Else
@@ -26,7 +25,7 @@ If (T=0)
 Then
 0→V
 End
-17.7778V→W
+(0-1)17.7778V→W
 Disp "The range to target is:"
 Disp R
 Disp "Bearing to tagret is:"
