@@ -24,3 +24,6 @@ W - Final Angle in Nato Mils
 X - 
 Y - 
 Z - 
+[A] - 82mm Charge 0
+[B] - 82mm Charge 1
+[C] - 82mm Charge 2
