@@ -26,7 +26,6 @@ Then
 0→V
 End
 (0-1)17.7778V→W
-Disp "The range to target is:"
-Disp R
-Disp "Bearing to tagret is:"
-Disp W
+ClrHome
+remainder(R,50)→G
+R-G→H
